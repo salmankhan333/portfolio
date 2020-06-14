@@ -273,6 +273,7 @@ header{
 }
 
 .about-section{
+  margin-top: 80px;
   background: url(./img/DSC_1390.jpg) no-repeat left;
   background-size: 35%;
   background-color: #fdfdfd;
@@ -647,6 +648,7 @@ background-color:whitesmoke;   background-size: cover;
   }
 
   .contact-info{
+    margin-top: 80px;
     display: flex;
     width: 100%;
     max-width: 1200px;
