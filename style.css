@@ -243,6 +243,7 @@ header{
 }
 
 .about-section{
+  margin-top: 100px;
   background: url(./img/DSC_1390.jpg) no-repeat left;
   background-size: 35%;
   background-color: #fdfdfd;
