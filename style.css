@@ -783,3 +783,33 @@ footer ul li a:hover{
 }
 
 
+
+@media screen and (max-width:1200px){
+
+  .main{
+    width: 100%;
+    padding: 0 2%;
+
+  }
+
+
+}
+
+@media screen and (max-width:998px){
+  .slider .title h1{
+    font-size: 200%;
+  }
+
+
+}
+
+
+@media screen and (max-width:760px){
+  .slider .title h1{font-size: 180%;
+  }
+
+    
+}
+
+
+
