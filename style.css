@@ -609,6 +609,17 @@ background-color:whitesmoke;   background-size: cover;
 
 
 
+
+@media screen and (max-width:600px) {
+  .section{
+    width: 100%;
+  }
+}
+
+
+
+
+
   .contact_color{
     background-color: #f1f1f1;
     min-height: 50vh;
