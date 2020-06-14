@@ -231,62 +231,6 @@ header{
 
 
 
-.sec-col-1{
-  margin-top: 50px;
-  height: 100%;
-  display: grid;
-  text-align: center;
-}
-.flex-container{ 
-    margin-top: 80px;
-    display: flex;
-    justify-content: center;
-}
-
- .flex-container .flex-item{
-    width: 23%;
-    display: inline-block;
-    text-align: center;
-    margin-left: 60px;
-    box-shadow: 0 0px 1px black;
-    background-color: white;
-}
-
-.main .flex-container .flex-item:hover{
-    background-color: #0cb9e0;
-}
-.main .flex-container .flex-item h5{
-    font-size: 18px;
-    letter-spacing: 0.5px;
-    margin: 20px 100px;
-}
-.main .flex-container .flex-item p{
-    color: #0f0a0a;
-    font-size: 16px;
-}
-
-.main .flex-container .flex-item .text-blue{
-    font-size: 40px;
-    color: #1fdf75!important;
-}
-
-
-@media screen and (max-width:1180px){
-   .flex-container{
-      width: 96%;
-      margin: 2%;
-    
-  }
-
-
-    
-  
-}
-
-
-
-
-
 
 .about-col{
   min-height: 100vh;
